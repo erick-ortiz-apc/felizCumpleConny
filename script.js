@@ -1,5 +1,5 @@
-var desktop = ['FELIZ CUMPLEAÑOS', 'CONSTANZA', '', 'TE AMAMOS MUCHO', '', 'DEMIAN Y ERICK'];
-var mobile = ['FELIZ', 'CUMPLEAÑOS', 'CONSTANZA', '', 'TE AMAMOS', 'MUCHO', '', 'DEMIAN', 'Y', 'ERICK'];
+var desktop = ['FELIZ CUMPLEAÑOS', 'HERMOSA', '', 'TE AMAMOS MUCHO', '', 'DEMIAN Y ERICK'];
+var mobile = ['FELIZ', 'CUMPLEAÑOS', 'HERMOSA', '', 'TE AMAMOS', 'MUCHO', '', 'DEMIAN', 'Y', 'ERICK'];
 
 var w = c.width = window.innerWidth,
     h = c.height = window.innerHeight,
